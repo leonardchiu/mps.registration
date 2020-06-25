@@ -40,6 +40,14 @@
 	.image {
 		height: 120px;
 	}
+
+	.message {
+		width: 90%;
+		padding: 120px 80px;
+		text-align: 'center';
+		margin: auto;
+		line-height: 20px;
+	}
 }
 
 @media screen and (max-width: 479px) {
