@@ -46,4 +46,12 @@
 	.image {
 		height: 80px;
 	}
+
+	.message {
+		width: 90%;
+		padding: 100px 50px;
+		text-align: 'center';
+		margin: auto;
+		line-height: 20px;
+	}
 }
