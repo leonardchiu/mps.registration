@@ -28,6 +28,11 @@
 	margin-bottom: 50px;
 }
 
+.message {
+	width: 80%;
+	margin: 0 30px;
+}
+
 @media screen and (max-width: 767px) {
 	.image {
 		height: 120px;
