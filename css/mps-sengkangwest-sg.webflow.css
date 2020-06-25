@@ -30,10 +30,10 @@
 
 .message {
 	width: 80%;
-	padding: 0 200px;
+	padding: 200px 100px;
 	text-align: 'center';
 	margin: auto;
-	line-height: 150%;
+	line-height: 20px;
 }
 
 @media screen and (max-width: 767px) {
