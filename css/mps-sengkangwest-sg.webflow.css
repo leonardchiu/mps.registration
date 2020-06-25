@@ -30,7 +30,8 @@
 
 .message {
 	width: 80%;
-	margin: 0 30px;
+	padding: 0 30px;
+	text-align: 'center';
 }
 
 @media screen and (max-width: 767px) {
